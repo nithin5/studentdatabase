@@ -6,6 +6,7 @@ DB:
 1) create a dbname 'studentdb' in mysql admin panels like phpmyadmin.workbench etc
 2) create the tables 'student','course' and marks as in the .sql file
 3) run the dummy data for 'course' table
+4)update the connection.php with respective credentials in your db
 
 code:
 1) addmarks.php,addstudents.php respectively for adding marks & student details
